@@ -8,7 +8,7 @@
  - HTML 주요 태그 
  - XAMPP 
     - 소개
-    - 설치
+       - 설치
  - github
      - 소개
      - fork
