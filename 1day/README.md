@@ -7,7 +7,7 @@
 </body>
 </html>
 ```
-<br>
+
 2차 (korea.html)
 ```html
 <!DOCTYPE html>
